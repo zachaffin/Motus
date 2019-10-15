@@ -29,8 +29,8 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | Return to menu | Escape | N/A |
 # Screenshots
 
-![Title Screen](https://imgur.com/a/v7uNRR3)
-![Gameplay](https://imgur.com/a/j3FsMFk)
+![Title Screen](https://i.imgur.com/n6aUwp9.png)
+![Gameplay](https://i.imgur.com/zSg76m3.png)
 
 # Disclaimers
 - I am not an artist in any way shape or form. Much of the game uses placeholder geometry (you play as a sphere not an astronaut) for this reason
